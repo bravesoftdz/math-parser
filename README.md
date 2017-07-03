@@ -11,7 +11,7 @@ The preferred way to install this extension is through [Composer](http://getcomp
 Either run
 
 ```
-php composer.phar require dykyi-roman/math-parser "master"
+php composer.phar require dykyi-roman/math-parser "dev-master"
 ```
 
 or add
