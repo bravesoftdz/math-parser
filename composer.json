@@ -1,6 +1,6 @@
 {
     "name": "dykyi-roman/math-parser",
-   
+    "minimum-stability": "stable",
     "type": "library",
     "description": "Math parser",
     "keywords": ["parser", "math","formula"],
