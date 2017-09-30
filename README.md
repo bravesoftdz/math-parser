@@ -17,7 +17,7 @@ php composer.phar require dykyi-roman/math-parser "dev-master"
 or add
 
 ```
-"dikiypac/math-parser": "master"
+"dykyi-roman/math-parser": "master"
 ```
 
 to the require section of your ```composer.json```
